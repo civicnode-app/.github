@@ -28,8 +28,8 @@ Platform ini dirancang untuk memberikan:
 | Nama                 | NPM     | Role      | Universitas                                                         |
 | -------------------- | ----------- | --------- | ------------------------------------------------------------------- |
 | Muhammad Rahman      | 2310010325  | Fullstack | Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin |
-| Haidir               | 2310010---  | Frontend  | Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin |
-| Maria Aulia          | 2310010491  | Backend   | Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin |
+| Haidir               | 2310010---  | Backend  | Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin |
+| Maria Aulia          | 2310010491  | Frontend   | Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin |
 
 ---
 ---
