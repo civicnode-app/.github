@@ -90,10 +90,10 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 <table border="0" frame="void" rules="none">
   <thead>
     <tr>
-      <th align="left"  width="270" height="24">Nama</th>
+      <th align="left"  width="300" height="24">Nama</th>
       <th align="left" width="134">NPM</th>
       <th align="left" width="100">Role</th>
-      <th align="left" width="580">Universitas</th>
+      <th align="left" width="550">Universitas</th>
     </tr>
   </thead>
   <tbody>
