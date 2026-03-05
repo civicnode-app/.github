@@ -26,26 +26,26 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 
 <h2>⭐ Key Features</h2>
 
-<table border="0">
+<table border="0" frame="void" rules="none" width="800">
   <tr>
     <td width="48" align="center"><h2>🔌</h2></td>
-    <td width="720"><strong>Universal Hardware Integration</strong><br><sub>Menerima input video streaming dari berbagai perangkat via protokol RTSP/RTMP tanpa mengganti infrastruktur CCTV yang ada.</sub></td>
+    <td width="752"><strong>Universal Hardware Integration</strong><br><sub>Menerima input video streaming dari berbagai perangkat via protokol RTSP/RTMP tanpa mengganti infrastruktur CCTV yang ada.</sub></td>
   </tr>
   <tr>
     <td width="48" align="center"><h2>📸</h2></td>
-    <td width="720"><strong>Smart Snapshot Engine</strong><br><sub>Pengambilan gambar otomatis untuk diproses oleh model AI guna efisiensi komputasi.</sub></td>
+    <td width="752"><strong>Smart Snapshot Engine</strong><br><sub>Pengambilan gambar otomatis untuk diproses oleh model AI guna efisiensi komputasi.</sub></td>
   </tr>
   <tr>
     <td width="48" align="center"><h2>🔐</h2></td>
-    <td width="720"><strong>Hybrid Authentication Portal</strong><br><sub>Pintu masuk terpisah untuk publik dan administrator dengan autentikasi yang aman.</sub></td>
+    <td width="752"><strong>Hybrid Authentication Portal</strong><br><sub>Pintu masuk terpisah untuk publik dan administrator dengan autentikasi yang aman.</sub></td>
   </tr>
   <tr>
     <td width="48" align="center"><h2>📊</h2></td>
-    <td width="720"><strong>Dashboard Analytic</strong><br><sub>Bukti pelanggaran diunggah ke IPFS dan hash-nya dicatat permanen di blockchain.</sub></td>
+    <td width="752"><strong>Dashboard Analytic</strong><br><sub>Bukti pelanggaran diunggah ke IPFS dan hash-nya dicatat permanen di blockchain.</sub></td>
   </tr>
   <tr>
     <td width="48" align="center"><h2>🌐</h2></td>
-    <td width="720"><strong>Frontend Portal</strong><br><sub>Dibangun dengan React/Next.js untuk pengalaman pengguna yang modern dan responsif.</sub></td>
+    <td width="752"><strong>Frontend Portal</strong><br><sub>Dibangun dengan React/Next.js untuk pengalaman pengguna yang modern dan responsif.</sub></td>
   </tr>
 </table>
 
@@ -55,10 +55,10 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 
 <h2>🏆 Tech Stack</h2>
 
-<table border="0">
+<table border="0" frame="void" rules="none" width="800">
   <tr>
     <td width="48" align="center"><h2>⚛️</h2></td>
-    <td width="720">
+    <td width="752">
       <strong>Frontend Interaktif</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/React-Next.js-black?style=flat-square&logo=next.js" height="14"/>
       <br><sub>Dashboard modern dan responsif dengan UI intuitif.</sub>
@@ -66,7 +66,7 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
   </tr>
   <tr>
     <td width="48" align="center"><h2>⚙️</h2></td>
-    <td width="720">
+    <td width="752">
       <strong>API Terintegrasi</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi" height="14"/>
       <br><sub>Backend scalable dengan performa optimal.</sub>
@@ -74,7 +74,7 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
   </tr>
   <tr>
     <td width="48" align="center"><h2>💾</h2></td>
-    <td width="720">
+    <td width="752">
       <strong>Manajemen Data</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/PostgreSQL-MySQL-336791?style=flat-square&logo=postgresql" height="14"/>
       <br><sub>Database robust untuk reliabilitas tinggi.</sub>
@@ -88,12 +88,12 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 
 <h2>👥 Anggota Tim</h2>
 <br>
-<table border="0">
+<table border="0" frame="void" rules="none" width="800">
   <colgroup>
     <col width="180"/>
     <col width="110"/>
     <col width="80"/>
-    <col width="398"/>
+    <col width="430"/>
   </colgroup>
   <thead>
     <tr>
