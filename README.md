@@ -101,30 +101,30 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 <table border="0" frame="void" rules="none">
   <thead>
     <tr>
-      <th align="left"  width="300" height="24">Nama</th>
-      <th align="left" width="154">NPM</th>
-      <th align="left" width="154">Role</th>
-      <th align="left" width="476">Universitas</th>
+      <th align="left"  width="300" height="30">Nama</th>
+      <th align="left" width="174">NPM</th>
+      <th align="left" width="174">Role</th>
+      <th align="left" width="436">Universitas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td height="40">🧑‍💻 <strong>Muhammad Rahman</strong></td>
+      <td height="48">🧑‍💻 <strong>Muhammad Rahman</strong></td>
       <td><code>2310010325</code></td>
       <td><code>Fullstack</code></td>
-      <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
+      <td>UNISKA MAB Banjarmasin</td>
     </tr>
     <tr>
-      <td height="40">⚙️ <strong>Haidir Aditya</strong></td>
+      <td height="48">⚙️ <strong>Haidir Aditya</strong></td>
       <td><code>2410010069</code></td>
       <td><code>Backend</code></td>
-      <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
+      <td>UNISKA MAB Banjarmasin</td>
     </tr>
     <tr>
-      <td height="40">🎨 <strong>Maria Aulia</strong></td>
+      <td height="48">🎨 <strong>Maria Aulia</strong></td>
       <td><code>2310010491</code></td>
       <td><code>Frontend</code></td>
-      <td>Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin</td>
+      <td>UNISKA MAB Banjarmasin</td>
     </tr>
   </tbody>
 </table>
@@ -134,7 +134,7 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 <br>
 
 <div align="center">
-  <sub>Made by <strong>CivicNode Team</strong> · Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin · 2026</sub>
+  <sub>Made by <strong>CivicNode Team</strong> · Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin (UNISKA MAB Banjarmasin) · 2026</sub>
   <br>
   <sub><em>Empowering communities through transparent and accountable environmental oversight</em></sub>
 </div>
