@@ -3,10 +3,10 @@
   <h1>🌿 CivicNode AI</h1>
   <p><em>Platform Pengawasan Lingkungan Cerdas berbasis Computer Vision & Blockchain</em></p>
   <p>
-    <img src="https://img.shields.io/badge/Computer_Vision-AI-blueviolet?style=for-the-badge&logo=opencv" alt="Computer Vision"/>
+    <img src="https://img.shields.io/badge/Computer_Vision-Python_·_OpenCV-blueviolet?style=for-the-badge&logo=opencv" alt="Computer Vision"/>
     <img src="https://img.shields.io/badge/Blockchain-IPFS-blue?style=for-the-badge&logo=ethereum" alt="Blockchain"/>
-    <img src="https://img.shields.io/badge/Next.js-Frontend-black?style=for-the-badge&logo=next.js" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Frontend-Next.js_·_ShadCN_·_Zustand-black?style=for-the-badge&logo=next.js" alt="Frontend"/>
+    <img src="https://img.shields.io/badge/Backend-Express.js_·_Node.js-000000?style=for-the-badge&logo=express" alt="Backend"/>
   </p>
 </div>
 
@@ -60,15 +60,26 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
     <td width="1000" height="80">
       <strong>Frontend Interaktif</strong>&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/React-Next.js-black?style=flat-square&logo=next.js" height="18"/>
-      <br><sub>Dashboard modern dan responsif dengan UI intuitif.</sub>
+      &nbsp;<img src="https://img.shields.io/badge/ShadCN-UI-000000?style=flat-square&logo=shadcnui&logoColor=white" height="18"/>
+      &nbsp;<img src="https://img.shields.io/badge/Zustand-orange?style=flat-square" height="18"/>
+      <br><sub>Dashboard modern dan responsif dengan UI intuitif menggunakan ShadCN dan Zustand.</sub>
     </td>
   </tr>
   <tr>
     <td width="48" align="center"><span>⚙️</span></td>
     <td width="1000" height="80">
       <strong>API Terintegrasi</strong>&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi" height="18"/>
-      <br><sub>Backend scalable dengan performa optimal.</sub>
+      <img src="https://img.shields.io/badge/Express.js-Node.js-000000?style=flat-square&logo=express" height="18"/>
+      <br><sub>Backend scalable menggunakan Express.js dengan performa optimal.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="48" align="center"><span>🤖</span></td>
+    <td width="1000" height="80">
+      <strong>Computer Vision & AI</strong>&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18"/>
+      &nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="18"/>
+      <br><sub>Interaksi dengan model AI untuk deteksi objek dan analisis video menggunakan Python dan OpenCV.</sub>
     </td>
   </tr>
   <tr>
@@ -123,7 +134,7 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
 <br>
 
 <div align="center">
-  <sub>Made by <strong>CivicNode Team</strong> · Universitas Islam Kalimantan · 2026</sub>
+  <sub>Made by <strong>CivicNode Team</strong> · Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin · 2026</sub>
   <br>
   <sub><em>Empowering communities through transparent and accountable environmental oversight</em></sub>
 </div>
