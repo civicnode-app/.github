@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>🌿 CivicNode AI</h1>
+  <h1>🌿 CleanSight</h1>
   <p><em>Platform Pengawasan Lingkungan Cerdas berbasis Computer Vision & Blockchain</em></p>
   <p>
     <img src="https://img.shields.io/badge/Computer_Vision-Python_·_OpenCV-blueviolet?style=for-the-badge&logo=opencv" alt="Computer Vision"/>
@@ -16,7 +16,7 @@
 
 <h2>📘 Project Overview</h2>
 <p align="justify">
-CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Computer Vision</strong> dan <strong>Blockchain</strong> yang dirancang untuk mengatasi krisis pengelolaan limbah di area publik. Mengusung misi <em>Planetary Health</em>, platform ini mentransformasi CCTV konvensional menjadi instrumen penegak akuntabilitas publik yang bekerja secara otomatis dan transparan.
+CleanSight adalah platform pengawasan lingkungan cerdas berbasis <strong>Computer Vision</strong> dan <strong>Blockchain</strong> yang dirancang untuk mengatasi krisis pengelolaan limbah di area publik. Mengusung misi <em>Planetary Health</em>, platform ini mentransformasi CCTV konvensional menjadi instrumen penegak akuntabilitas publik yang bekerja secara otomatis dan transparan.
 </p>
 
 <br>
@@ -111,19 +111,19 @@ CivicNode AI adalah platform pengawasan lingkungan cerdas berbasis <strong>Compu
     <tr>
       <td height="48">🧑‍💻 <strong>Muhammad Rahman</strong></td>
       <td><code>2310010325</code></td>
-      <td><code>Fullstack</code></td>
-      <td>UNISKA MAB Banjarmasin</td>
-    </tr>
-    <tr>
-      <td height="48">⚙️ <strong>Haidir Aditya</strong></td>
-      <td><code>2410010069</code></td>
-      <td><code>Backend</code></td>
+      <td><code>Fullstack Web & AI Engineer</code></td>
       <td>UNISKA MAB Banjarmasin</td>
     </tr>
     <tr>
       <td height="48">🎨 <strong>Maria Aulia</strong></td>
       <td><code>2310010491</code></td>
       <td><code>Frontend</code></td>
+      <td>UNISKA MAB Banjarmasin</td>
+    </tr>
+    <tr>
+      <td height="48">🎨 <strong>Selvia Maharani</strong></td>
+      <td><code>-</code></td>
+      <td><code>-</code></td>
       <td>UNISKA MAB Banjarmasin</td>
     </tr>
   </tbody>
